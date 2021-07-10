@@ -1,3 +1,2 @@
-#Segundo ejemplo git
-
-Creando un repositorio local
+# Ejercicios y proyectos en JavaScript
+Repositorio con el objetivo de almacenar prácticas de JavaScript.
